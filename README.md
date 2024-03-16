@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArifurRahmann
+- 👋 Hi, I’m @ArifurRahman
 - 👀 I’m interested in New Technologies 
 - 🌱 I’m currently learning WebDev
 - 📫 How to reach me @notariff
