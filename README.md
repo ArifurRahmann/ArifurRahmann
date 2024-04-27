@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArifurRahman
 - 👀 I’m interested in New Technologies 
-- 🌱 I’m currently learning WebDev
+- 🌱 I’m currently exploring things
 - 📫 How to reach me @notariff
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Never tried?You never knew!
